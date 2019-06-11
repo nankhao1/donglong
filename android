@@ -1,0 +1,11 @@
+{
+    "updateUrl":"http://blm.webrtcdev.cn/bailemen.apk",
+    "domainUrl":"http://mobile.webrtcdev.cn",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
